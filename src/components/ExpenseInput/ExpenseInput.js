@@ -1,4 +1,4 @@
-import "./NewExpense.css";
+import "./ExpenseInput.css";
 import ExpenseForm from "./ExpenseForm";
 const NewExpense = (props) => {
   const saveExpenseDataHandler = (enteredExpenseData) => {
